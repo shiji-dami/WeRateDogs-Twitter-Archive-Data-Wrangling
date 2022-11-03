@@ -4,7 +4,7 @@ The dataset that you will be wrangling (and analyzing and visualizing) is the tw
 ## Context
 My goal is to investigate and wrangle WeRateDogs Twitter data to create interesting and trustworthy analyses and visualizations. The Twitter archive is great, but it only contains very basic tweet information. Additional gathering, then assessing and cleaning is required for "Wow!"-worthy analyses and visualizations.
 
-# Steps Taken In Analysing The Datasets
+## Steps Taken In Analysing The Datasets
 > #### Data Gathering: 
 Three datasets were given to perfom this wrangling. These datasets are
 - twitter_archive_enhanced.csv
@@ -22,7 +22,7 @@ After cleaning my data, I stored my data in a csv file which was later used for 
 > #### Exploratory Data Analysis
 
 
-> #### ConclusionS
+> #### Conclusions
 - Twitter for Iphone is the most popular tweet source.
 - The golden retriever breed is the most popular dog breed while irish_wolfhoundis the leave popular dog breed among others.
 - There is a positive correlation between favorite_counts and retweets.
